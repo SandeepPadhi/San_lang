@@ -1,0 +1,10 @@
+
+
+class Error - Has position,lineno and filename of error
+class IllegalCharError(Error)
+class Token:
+   
+class Lexer:
+   advance()
+   tokenisze()
+

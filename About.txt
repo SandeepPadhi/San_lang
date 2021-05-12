@@ -1,0 +1,12 @@
+This is my very own programming language.
+
+Why would I want to do that?
+->Because, I was extremely curious about a language is built.I wanted to feel those people who created their language.I craved the clarity that
+thos people had.I wanted to among those view people who have implemented their own version of language.This doesnt contribute anyting to 
+the programming community,but is preparation to able to contribute soon...I believe there are many more languages about to come and many languages 
+are to be improved which they ofcourse do.I want wish to be one of them.
+
+
+#Lexer
+A lexer is the very first component of compiler.Which tries to find out individual atomic entities of the source code.
+That is token.Every token has a type and optionally a value.
